@@ -32,6 +32,11 @@ public class SampleAPITest {
         System.out.println(response.getBody().asString());
         System.out.println("Git Response1");
         System.out.println("Git Response2");
+        
+        System.out.println("Git Response3");
+        System.out.println("Git Response4");
+        System.out.println("Git Response5");
+        System.out.println("Git Response6");
 
 
     }
