@@ -19,6 +19,9 @@ public class SchemaValidationTest {
                 .body(JsonSchemaValidator.matchesJsonSchemaInClasspath("com/thetestingacademy/schema/schema.json"));
         System.out.println("Git Response Test");
         System.out.println("Test Develop Git Response Test");
+        
+        System.out.println("Test Develop to master Git Response Test");
+
 
 
     }

@@ -49,7 +49,7 @@ public class SampleAPITest {
         System.out.println("Git Response3");
         System.out.println("Git Response4");
         System.out.println("Git Response5");
-        System.out.println("Git Response6");
+        System.out.println("Develp to master");
 
 
     }
