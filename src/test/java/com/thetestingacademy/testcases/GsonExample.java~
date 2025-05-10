@@ -1,0 +1,4 @@
+package com.thetestingacademy.testcases;
+
+public class GsonExample {
+}
