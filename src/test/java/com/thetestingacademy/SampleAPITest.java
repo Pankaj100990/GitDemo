@@ -30,6 +30,10 @@ public class SampleAPITest {
     @Step("Logging API Response")
     public void logResponse(Response response) {
         System.out.println(response.getBody().asString());
+        System.out.println("Git Response1");
+        System.out.println("Git Response2");
+
+
     }
 }
 
